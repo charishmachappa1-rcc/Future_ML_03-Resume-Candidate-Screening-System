@@ -53,6 +53,8 @@ Resume_Screening_Project/
 - Ranked list of candidates
 - Resume match scores (%)
 - Skill gap analysis
+- <img width="638" height="368" alt="Screenshot 2026-06-14 095408" src="https://github.com/user-attachments/assets/de6c920a-370e-4bcc-b147-367024977213" />
+
 
 ---
 
